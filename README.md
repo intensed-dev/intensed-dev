@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi there, I am Intense!
+![hello_badge](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/hello_badge.svg)
+![welcome_badge](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/welcome_badge.svg)
+![creator_of_lisce](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/creator_of_lisce.svg)
+![creator_of_keyframecss](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/creator_of_keyframecss.svg)
+![website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg)
 
 <!--
 **intensed-dev/intensed-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
