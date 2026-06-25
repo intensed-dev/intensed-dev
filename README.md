@@ -1,9 +1,9 @@
 # 👋 Hi there, I am Intense!
 ![hello_badge](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/hello_badge.svg)
 ![welcome_badge](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/welcome_badge.svg)
-![creator_of_lisce](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/creator_of_lisce.svg)
-![creator_of_keyframecss](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/creator_of_keyframecss.svg)
-![website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg)
+[![creator_of_lisce](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/creator_of_lisce.svg)](https://github.com/intensed-dev/lisce)
+[![creator_of_keyframecss](https://cdn.jsdelivr.net/gh/intensed-dev/intensed-dev@latest/creator_of_keyframecss.svg)](https://github.com/intensed-dev/keyframecss)
+[![website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg)](https://intensed-dev.github.io)
 
 ## 🔭 I’m currently working on
 - my own UI Framework, **[Lisce](https://github.com/intensed-dev/lisce)**!
