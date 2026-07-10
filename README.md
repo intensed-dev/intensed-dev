@@ -65,7 +65,7 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-    <img src="https://github.com/intensed-dev/intensed-dev/dist/github-contribution-grid-snake-dark.svg" alt="Comming soon" />
+    <img src="https://github.com/intensed-dev/intensed-dev/tree/main/dist/github-contribution-grid-snake-dark.svg" alt="Comming soon" />
   </picture>
   <br />
   <br />
