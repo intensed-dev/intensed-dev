@@ -17,7 +17,7 @@ on:
 
 jobs:
   generate:
-    runs-on: macos-latest
+    runs-on: macos-26
     timeout-minutes: 10
     
     steps:
