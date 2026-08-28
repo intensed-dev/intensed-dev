@@ -1,0 +1,118 @@
+# Foliocafe Profile Configuration
+# Repository: github.com/USERNAME/USERNAME
+
+# ==========================================
+# PROFILE
+# ==========================================
+
+display_name: "Intense"
+role: "Developer"
+
+bio: |
+  Developer building games, tools and open-source projects.
+  Mostly working with Godot, Minecraft and web technologies.
+
+# Optional images inside .bio/
+avatar: "avatar.png"
+banner: "banner.png"
+
+# ==========================================
+# APPEARANCE
+# ==========================================
+
+# Available:
+# midnight
+# ocean
+# forest
+# sunset
+# rose
+# graphite
+# koala
+# lavender
+# custom
+
+theme: "midnight"
+
+appearance:
+  # dark | light | system
+  theme: "dark"
+
+# ==========================================
+# PROFILE INFORMATION
+# ==========================================
+
+# If omitted, GitHub's location is used as fallback.
+location: "Worldwide"
+
+# true  = force show
+# false = force hide
+# omitted = automatically use GitHub location
+show_location: true
+
+# If omitted, GitHub's account creation date is used.
+joined: "2024-03-15"
+
+website: "https://example.com"
+
+# ==========================================
+# SOCIAL LINKS
+# ==========================================
+
+links:
+
+  - title: "GitHub"
+    url: "https://github.com/Intensed"
+    icon: "github"
+
+  - title: "Discord"
+    url: "https://discord.gg/example"
+    icon: "discord"
+
+  - title: "YouTube"
+    url: "https://youtube.com/@Intensed"
+    icon: "youtube"
+
+  - title: "X"
+    url: "https://x.com/Intensed"
+    icon: "x-twitter"
+
+  - title: "Modrinth"
+    url: "https://modrinth.com/user/Intensed"
+    icon: "cube"
+
+# ==========================================
+# TABS
+# ==========================================
+
+tabs:
+  about: true
+  projects: true
+  links: true
+
+# ==========================================
+# REPOSITORIES
+# ==========================================
+
+repositories:
+
+  # pinned
+  # selected
+  # disabled
+
+  mode: "pinned"
+
+  # Only used when mode is "selected"
+  selected:
+    - "KeyframeCSS"
+
+# ==========================================
+# OPTIONAL CUSTOM CSS
+# ==========================================
+
+# Set theme to "custom" to use:
+#
+# .bio/theme.css
+#
+# Example:
+#
+# theme: "custom"
