@@ -3,3 +3,5 @@
 [![My Skills](https://skillicons.dev/icons?i=godot,html,css,ts,js,vite,vue,tailwind,apple)](https://skillicons.dev)
 
 [![Discord](https://img.shields.io/discord/1525814737089331321?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://intensed-dev.github.io/discord)
+
+<sup><sub>Forked from <a href="https://github.com/creeperkatze/creeperkatze/blob/7f414874bc542fe8814d50203e70630a2036d0ca/README.md">creeperkatze/creeperkatze</a></sub></sup>
