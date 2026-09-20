@@ -1,18 +1,71 @@
 {
   "$schema": "https://intensed-dev.github.io/fx/schema.json",
-  "displayName": "Intense",
+
+  "displayName": "Intensed",
   "pronouns": ["she/her"],
-  "bio": "I'm a Developer with boobs.",
-  "languages": ["German", "English"],
-  "status": "Building",
-  "accent": "#7c7cff",
+  "age": 18,
+
+  "bio": "Developer and creator with boobs.",
+  "about": "Hi! I'm Intenses, also known as Intense. I'm a web and mod-developer.",
+  "status": "Creating",
+  "location": "Somewhere on Mars",
+  "timezone": "Europe/Paris",
+
+  "languages": [
+    "English",
+    "German"
+  ],
+
+  "theme": "default",
   "appearance": "dark",
-  "projects": [
-    "intensed-dev/fx",
+  "accent": "#7c7cff",
+  "radius": "20px",
+
+  "links": {
+    "Website": "https://intensed-dev.github.io",
+    "GitHub": "https://github.com/intensed-dev"
+  },
+
+  "linktree": [
     {
-      "name": "My Project",
-      "description": "A cool project.",
-      "url": "https://github.com/example/project"
+      "name": "GitHub",
+      "url": "https://github.com/intensed-dev",
+      "description": "My code and open-source projects",
+      "icon": "⌘"
+    },
+    {
+      "name": "Website",
+      "url": "https://intensed-dev.github.io",
+      "description": "My personal website",
+      "icon": "↗"
     }
-  ]
+  ],
+
+  "projects": [
+    {
+      "name": "FX",
+      "description": "What you are looking at right now - A portfolio generator",
+      "url": "https://github.com/intensed-dev/fx"
+    }
+  ],
+
+  "sectionOrder": [
+    "about",
+    "projects",
+    "languages",
+    "contributions",
+    "repositories",
+    "linktree",
+    "pages"
+  ],
+
+  "sections": {
+    "about": true,
+    "projects": true,
+    "languages": true,
+    "contributions": true,
+    "repositories": true,
+    "linktree": true,
+    "pages": true
+  }
 }
