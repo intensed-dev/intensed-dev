@@ -3,15 +3,16 @@
   "displayName": "Intense",
   "pronouns": ["she/her"],
   "bio": "Developer creating games and software.",
-  "about": "A longer introduction goes here.",
-  "links": {
-    "Website": "https://example.com"
-  },
+  "languages": ["German", "English"],
+  "status": "Building",
+  "accent": "#7c7cff",
+  "appearance": "dark",
   "projects": [
+    "intensed-dev/fx",
     {
       "name": "My Project",
-      "description": "A project description.",
-      "url": "https://github.com/USERNAME/project"
+      "description": "A cool project.",
+      "url": "https://github.com/example/project"
     }
   ]
 }
