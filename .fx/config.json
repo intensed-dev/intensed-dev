@@ -1,0 +1,17 @@
+{
+  "$schema": "https://intensed-dev.github.io/fx/schema.json",
+  "displayName": "Intense",
+  "pronouns": ["she/her"],
+  "bio": "Developer creating games and software.",
+  "about": "A longer introduction goes here.",
+  "links": {
+    "Website": "https://example.com"
+  },
+  "projects": [
+    {
+      "name": "My Project",
+      "description": "A project description.",
+      "url": "https://github.com/USERNAME/project"
+    }
+  ]
+}
