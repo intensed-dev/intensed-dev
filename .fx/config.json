@@ -6,10 +6,10 @@
   "age": 18,
 
   "bio": "Developer and creator with boobs.",
-  "about": "Hi! I'm Intenses, also known as Intense. I'm a web and mod-developer.",
+  "about": "Hi! I'm Intensed, also known as Intense. I'm a web and mod-developer.",
   "status": "Creating",
   "location": "Somewhere on Mars",
-  "timezone": "Europe/Paris",
+  "timezone": "Europe/Berlin",
 
   "languages": [
     "English",
@@ -45,7 +45,7 @@
     {
       "name": "FX",
       "description": "What you are looking at right now - A portfolio generator",
-      "url": "https://github.com/intensed-dev/fx"
+      "url": "https://github.com/intensed-dev/fx/"
     }
   ],
 
