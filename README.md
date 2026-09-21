@@ -8,12 +8,12 @@
 
 ## 🛠️ What I'm building
 
-- **🧩 Browser Extensions**
-    - [Pi-hole In One](https://github.com/creeperkatze/pihole-in-one), a browser extension to control your Pi-hole conveniently from within the browser.
-    - [Modrinth Extras](https://github.com/creeperkatze/modrinth-extras), a browser extension that enhances Modrinth on the website and beyond.
+- **🧩 Minecraft Projects**
+    - [Fallback](https://modrinth.com/projects/fallback), a custom Fabric Library Mod including important stuff for Data Packs.
+    - [No Foliage](https://modrinth.com/projects/nofoliage), a Texture Pack removing Grass and Ferns to boost FPS, inspired by Lunar Client.
 
 - **💻 Apps**
-    - [Full Steam Ahead](https://github.com/creeperkatze/full-steam-ahead), a desktop app to import games from other launchers into Steam.
+    - [Xolors](https://github.com/intensed-dev/xolors), a web app to find color names, get inspired by new colors or calculate colord with over 30,000 names.
 
 - **🌐 Web Apps**
     - [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
